@@ -1,0 +1,23 @@
+/*
+==UserCSS==
+@name f4wboard
+@match   *://theboard.f4wonline.com/*
+@version          1.0
+==/UserCSS==
+*/
+body {
+    background-color: #111111 !important;
+    color: white !important;
+}
+.content {
+    background-color: #111111 !important;
+    color: white !important;
+}
+#channel-subtabbar .channel-subtabbar-list li a {color: white !important}
+.page-title-widget .module-title, .page-title-widget .module-title h1 {color: white !important}
+.crumb {
+    color: white !important;
+}
+.crumb-link {
+    color: white !important;
+}
