@@ -3,15 +3,16 @@
 @name f4wonline
 @match *://www.f4wonline.com/*
 @match *://members.f4wonline.com/*
-@version          1.0
+@version 1.1
 ==/UserCSS==
 */
 body {background-color: #111111 !important;color: white !important;}
 #middle {color: white !important;}
 #article-title h1 {color: white !important;}
-a:link{color:#ff4655;text-decoration:underline;}
+a:link{color:#ffffff;text-decoration:underline;}
+a:hover {color: #ff4655 !important; text-decoration:underline !important;}
 #white-menu {background-color: black}
 #latest-radioshows, #howto-podcast, #observer-ad, #stream-links, #twitter-links {background-color: #111111}
-#observer-ad h2 a:link {color: #ff4655;}
+#observer-ad h2 a:link {color: #ffffff;}
 #latest-radioshows a:hover {color: #ff4655}
-#latest-radioshows a:link {color: #ff4655}
+#latest-radioshows a:link {color: #ffffff}
